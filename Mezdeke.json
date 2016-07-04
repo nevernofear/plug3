@@ -1,0 +1,43 @@
+{
+    "room":                     "Mezdeke",
+    "author":                   "Created by NeverNoFear ",
+    "css":                      "https://cdn.bssecure.net/nc-themes/plug-themes/nc331-theme.css",
+    "rules": {
+        "allowAutorespond":     true,
+        "allowAutowoot":        true,
+        "allowAutojoin":        true,
+        "allowAutograb":        true,
+        "allowSmartVote":       true,
+        "allowEmotes":          true,
+        "allowShowingMehs":     true,
+        "forceSmartVote":       false
+    },
+    "ccc": {
+        "admin":                "#f46b40",
+        "ambassador":           "#84B423",
+        "host":                 "#f46b40",
+        "cohost":               "#f46b40",
+        "manager":              "#f46b40",
+        "bouncer":              "#90ad2f",
+        "rdj":                  "#547bc9",
+        "subscriber":           "#a1a6b3",
+        "friend":               "#b35d88",
+        "user":                 "#8b92a3"
+    },
+    "images": {
+        "background":           "http://i.hizliresim.com/r9v6pV.png",
+        "playback":             null,
+        "admin":                null,
+        "ambassador":           null,
+        "host":                 "https://i.imgur.com/uvkSrZm.png",
+        "cohost":               "https://i.imgur.com/Qhh7mps.png",
+        "manager":              "https://i.imgur.com/Ia0XNqc.png",
+        "bouncer":              "https://i.imgur.com/aulbyGa.png",
+        "rdj":                  "https://i.imgur.com/F6gPcXh.png",
+        "subscriber":           null
+    },
+    "autocomplete": [],
+    "emotes": {
+        "banned":               "http://i.imgur.com/EOuLASw.gif"
+    }
+}
